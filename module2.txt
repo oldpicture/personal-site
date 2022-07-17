@@ -1,0 +1,3 @@
+The <img> tag:		<img src="mars.jpg" width="100%"/>
+<div> </div>
+<button>TEXT</button>
